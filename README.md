@@ -1,139 +1,179 @@
-<h1 align="center">Hi, I'm Saurabh Shivam</h1>
+<div align="center">
 
-<p align="center"><b>MCA @ NIT Patna · Backend Developer · DSA · AI/ML</b></p>
+Saurabh Shivam
 
-<p align="center">
-  <a href="https://github.com/prime-saurabh65"><img src="https://komarev.com/ghpvc/?username=prime-saurabh65&label=Profile%20Views&style=flat" alt="Profile Views"/></a>
-  <a href="https://www.linkedin.com/in/primesaurabh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-</p>
+Backend Developer · DSA · AI/ML
 
-<table>
+MCA @ NIT Patna
+
+<a href="https://github.com/prime-saurabh65">
+  <img src="https://komarev.com/ghpvc/?username=prime-saurabh65&style=flat-square&label=Profile%20Views" />
+</a>
+<a href="https://www.linkedin.com/in/primesaurabh/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-About Me
+👨‍💻 About
 
-MCA student at NIT Patna
+I'm an MCA student at NIT Patna focused on building backend systems and improving problem-solving skills.
 
-Focused on Backend Development & DSA
+Java & Spring Boot backend development
 
-Building with Java & Spring Boot
+Data Structures & Algorithms
 
-Using Python for DSA, AI/ML & GenAI
+Python for DSA, AI/ML & GenAI
+
+React for full-stack applications
 
 Exploring LangChain & Agentic AI
 
-Building full-stack applications with React
-
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-Tech Stack
-
-Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" height="48"/>
-</p>
+⚡ Current Focus
 
 Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask" height="48"/>
-</p>
+Spring Boot · REST APIs · JPA · MySQL
 
-Frontend
+Problem Solving
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" height="48"/>
-</p>
+DSA · Competitive Programming
 
-Databases
+AI
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis" height="48"/>
-</p>
-
-AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" height="48"/>
-</p>
-
-Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,idea" height="48"/>
-</p>
+GenAI · LangChain · LLM Applications
 
 </td>
 </tr>
 </table>
 
-Featured Projects
+🛠️ Tech Stack
 
-<table>
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
+
+Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask" />
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+
+Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis" />
+
+AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,idea" />
+
+</div>
+
+🚀 Featured Projects
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-InvestX
+📈 InvestX
 
 Online Trading Platform
 
 React · Spring Boot · MySQL · JWT
 
-Trading dashboard with holdings, positions, orders, funds and authentication.
+A full-stack trading platform with authentication, holdings, positions, orders, funds and a trading dashboard.
+
+Focus: REST APIs · Authentication · Backend Architecture
 
 </td>
 <td width="50%" valign="top">
 
-URL Shortener
+🔗 URL Shortener
 
 Scalable Backend Service
 
 Java · Spring Boot · MySQL · Redis · Docker
 
-Base62 short URLs, click tracking, expiration, caching and centralized exception handling.
+URL shortening service with Base62 codes, click tracking, expiration and Redis caching.
+
+Focus: Caching · REST APIs · Database Design
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-DSA Implementations
+🧩 DSA Implementations
 
 C++ · Python
 
-Core data structures, algorithms and common problem-solving patterns.
+Core data structures and algorithms with continuous problem-solving practice.
+
+Focus: Algorithms · Problem Solving · Competitive Programming
 
 </td>
 <td width="50%" valign="top">
 
-Generative AI using LangChain
+🤖 Generative AI using LangChain
 
 Python · LangChain · LLMs
 
-Hands-on implementations covering LLM integration, prompts, chains, embeddings and retrieval.
+Hands-on implementations exploring LLM integration, prompts, chains, embeddings and retrieval.
+
+Focus: GenAI · LLMs · AI Applications
 
 </td>
 </tr>
 </table>
 
-GitHub Statistics
+📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prime-saurabh65&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prime-saurabh65&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prime-saurabh65&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=prime-saurabh65&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prime-saurabh65&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
 
-Coding Profiles
+<br/>
 
-<p>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-</p>
+<img src="https://streak-stats.demolab.com?user=prime-saurabh65&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+Building backend systems. Solving problems. Learning continuously.
+
+</div>
