@@ -1,248 +1,121 @@
-<h1 align="center">Hi 👋, I'm Saurabh Shivam</h1>
+<h1 align="center">Hi, I'm Saurabh Shivam</h1>
 
-<h3 align="center">
-  MCA @ NIT Patna | Backend Developer | DSA | AI/ML
-</h3>
+<p align="center"><b>MCA @ NIT Patna · Backend Developer · DSA · AI/ML</b></p>
 
 <p align="center">
-  <a href="https://github.com/prime-saurabh65">
-    <img src="https://komarev.com/ghpvc/?username=prime-saurabh65&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+  <a href="https://github.com/prime-saurabh65"><img src="https://komarev.com/ghpvc/?username=prime-saurabh65&label=Profile%20Views&style=flat" alt="Profile Views"/></a>
+  <a href="https://www.linkedin.com/in/primesaurabh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## About Me
+About Me
 
-- 🎓 MCA student at **NIT Patna**, specializing in **AI & IoT**
-- 💻 Focused on **Backend Development, Data Structures & Algorithms**
-- ☕ Building backend applications with **Java & Spring Boot**
-- 🐍 Experienced with **Python** for DSA, AI/ML and development
-- 🧠 Exploring **Generative AI, LangChain and Agentic AI**
-- 🌐 Building full-stack applications using **React**
-- 🗄️ Working with relational and NoSQL databases
-- 🚀 I enjoy building projects and solving algorithmic problems every day
+MCA student at NIT Patna
 
----
+Focused on Backend Development & DSA
 
-## Tech Stack
+Building with Java & Spring Boot
 
-### Languages
+Using Python for DSA, AI/ML & GenAI
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,sql" />
-</p>
+Exploring LangChain & Agentic AI
 
-### Backend Development
+Building full-stack applications with React
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- REST APIs
-- Hibernate / JPA
-- JWT Authentication
-- Redis
-- Node.js
-- Express.js
-- Flask
+Tech Stack
 
-### Frontend Development
+Languages
+Java · Python · C++ · JavaScript · SQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
+Backend
+Spring Boot · Spring Data JPA · REST APIs · Node.js · Express · Flask
 
-- React
-- React Hooks
-- React Router
-- Tailwind CSS
-- Material UI
+Frontend
+React · Tailwind CSS · Material UI
 
-### Databases
+Databases
+MySQL · PostgreSQL · MongoDB · SQLite · Redis
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
-</p>
+AI / ML
+Scikit-learn · TensorFlow · NLP · LangChain · Generative AI
 
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQLite
-- Redis
+Tools
+Git · GitHub · Docker · Postman · Linux · IntelliJ IDEA · VS Code
 
-### AI / ML / GenAI
+</td>
+</tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
-</p>
+Featured Projects
 
-- Machine Learning
-- Natural Language Processing
-- Scikit-learn
-- TensorFlow
-- LangChain
-- Generative AI
-- LLM Applications
-- Prompt Engineering
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Tools & Technologies
+InvestX
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,idea" />
-</p>
+Online Trading Platform
 
-- Git & GitHub
-- Docker
-- Postman
-- IntelliJ IDEA
-- VS Code
-- Linux
-- REST API Development
+React · Spring Boot · REST APIs · MySQL · JWT
 
----
+Trading dashboard with holdings, positions, orders, funds and authentication.
 
-## Data Structures & Algorithms
+</td>
+<td width="50%" valign="top">
 
-I regularly practice **Data Structures & Algorithms** and competitive programming.
+URL Shortener
 
-### Topics
+Scalable Backend Service
 
-- Arrays & Strings
-- Linked Lists
-- Stacks & Queues
-- Hashing
-- Recursion & Backtracking
-- Binary Trees & BST
-- Heaps / Priority Queues
-- Graphs
-- BFS / DFS
-- Topological Sort
-- Disjoint Set Union
-- Shortest Path Algorithms
-- Dynamic Programming
-- Greedy Algorithms
-- Sliding Window
-- Two Pointers
-- Binary Search
-- Prefix Sum
-- Monotonic Stack
-- Bit Manipulation
+Java · Spring Boot · MySQL · Redis · Docker
 
----
+Base62 short URLs, click tracking, expiration, caching and centralized exception handling.
 
-## Featured Projects
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### InvestX — Online Trading Platform
+DSA Implementations
 
-A full-stack trading platform inspired by modern stock-brokerage applications.
+C++ · Python
 
-**Tech:** React, Spring Boot, REST APIs, MySQL, JWT, Material UI
+Core data structures, algorithms and common problem-solving patterns.
 
-- Trading dashboard
-- Holdings and positions
-- Order management
-- Funds management
-- Authentication and authorization
-- RESTful backend architecture
+</td>
+<td width="50%" valign="top">
 
----
+Generative AI using LangChain
 
-### URL Shortener
+Python · LangChain · LLMs
 
-A production-style URL shortening service built with a scalable backend architecture.
+Hands-on implementations covering LLM integration, prompts, chains, embeddings and retrieval.
 
-**Tech:** Java, Spring Boot, MySQL, Redis, Docker
+</td>
+</tr>
+</table>
 
-- Base62 URL encoding
-- Short URL generation
-- Redis caching
-- Click tracking
-- URL expiration
-- Centralized exception handling
-- REST API architecture
-
----
-
-### DSA Implementations
-
-Collection of fundamental Data Structures and Algorithms implemented from scratch.
-
-**Languages:** C++ & Python
-
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- Heaps
-- Hashing
-- Sorting
-- Searching
-- Other core data structures
-
----
-
-### Generative AI using LangChain
-
-Hands-on learning repository covering Generative AI concepts and LangChain implementations.
-
-**Tech:** Python, LangChain, LLMs
-
-- LLM integration
-- Prompt engineering
-- Chains
-- Embeddings
-- Retrieval
-- AI application development
-
----
-
-## GitHub Statistics
+GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prime-saurabh65&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prime-saurabh65&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prime-saurabh65&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prime-saurabh65&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prime-saurabh65&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=prime-saurabh65&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
----
-
-## Coding Profiles
+Coding Profiles
 
 <p>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
-
----
-
-## Currently Learning
-
-```text
-Spring Boot
-     ↓
-Backend Architecture
-     ↓
-System Design
-     ↓
-Generative AI
-     ↓
-LangChain
-     ↓
-Agentic AI
