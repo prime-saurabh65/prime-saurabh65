@@ -31,22 +31,40 @@ Building full-stack applications with React
 Tech Stack
 
 Languages
-Java · Python · C++ · JavaScript · SQL
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" height="48"/>
+</p>
 
 Backend
-Spring Boot · Spring Data JPA · REST APIs · Node.js · Express · Flask
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask" height="48"/>
+</p>
 
 Frontend
-React · Tailwind CSS · Material UI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" height="48"/>
+</p>
 
 Databases
-MySQL · PostgreSQL · MongoDB · SQLite · Redis
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis" height="48"/>
+</p>
 
 AI / ML
-Scikit-learn · TensorFlow · NLP · LangChain · Generative AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" height="48"/>
+</p>
 
 Tools
-Git · GitHub · Docker · Postman · Linux · IntelliJ IDEA · VS Code
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,idea" height="48"/>
+</p>
 
 </td>
 </tr>
@@ -62,7 +80,7 @@ InvestX
 
 Online Trading Platform
 
-React · Spring Boot · REST APIs · MySQL · JWT
+React · Spring Boot · MySQL · JWT
 
 Trading dashboard with holdings, positions, orders, funds and authentication.
 
